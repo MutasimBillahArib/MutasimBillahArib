@@ -36,7 +36,7 @@ I’m on a journey to become a **remote data scientist** and ultimately a **mach
 Using past meteorological data (temperature, humidity, IR, wind, pressure, etc.), trend-based features, and hybrid ML models to estimate next-day solar radiation.  
 **Tech Stack:** Deep Learning, Python, pandas, scikit-learn, XGBoost, LSTM
 
-## 📌 B.S. Capstone Project
+## 📌 [B.S. Capstone Project](https://github.com/mmbillah804/isrt-du/tree/main/bs-capstone-project)
 **Topic:** Hourly Weather Forecasting Using Stacked Bi-directional LSTM  
 Developed a deep learning model using stacked bi-directional LSTM layers to forecast hourly temperature (T2M) for the 7 days, based on the previous 7 days of multivariate weather data. The pipeline includes cyclic feature encoding, sliding window sequence generation, normalization, and time-series modeling with a focus on temporal dependencies and evaluation using RMSE.  
 **Tech Stack:** Python, pandas, bi-directional LSTM, time-series modeling
