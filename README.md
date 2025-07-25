@@ -50,12 +50,6 @@ Developed a deep learning model using stacked bi-directional LSTM layers to fore
 **Soft Skills:** Research writing, analytical thinking, communication, remote collaboration
 
 
-## 📫 Let’s Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mmbillah804/)   
-- ✉️ Always open to connect, collaborate or discuss exciting data challenges!
-
-
 ### ☕ Fun Fact
 I believe clean code, reproducible research, and real-world utility should go hand-in-hand. If a model can't be explained or deployed—it's not done yet.
 
