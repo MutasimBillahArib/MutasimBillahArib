@@ -23,7 +23,6 @@ I’m on a journey to become a **remote data scientist** and ultimately a **mach
   Projects: NLP SMS Classifier, CNN Image Classifier, KNN Recommender, etc.
 - ✅ [Data Analysis with Python](https://github.com/MutasimBillahArib/data-analysis-with-python-freecodecamp)  
   Projects: Demographic data, Sea Level Predictor, Medical Data Visualizer, and more.
-- ✅ [Relational Databases](#) *(in-progress)*
 
 ### 📘 [Google Advanced Data Analytics Certificate](https://github.com/MutasimBillahArib/google-advanced-data-analytics-coursera)
 - Projects:  
