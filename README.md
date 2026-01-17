@@ -2,7 +2,7 @@
 
 Data Scientist | ML & AI enthusiast | Python & TensorFlow tinkerer  
 
-🚀 Currently building predictive models, and AI-driven solutions at **Pathao Limited**  
+🚀 Currently building predictive models, and AI-driven solutions at **Pathao**  
 💡 Passionate about turning messy data into insights & cool predictions  
 
 ### Skills
